@@ -71,8 +71,8 @@
   <parent>
     <version>1.0-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
-    <groupId>com.oracle.adf</groupId>
-    <artifactId>adf-parent</artifactId>
+    <groupId>OracleCICDDemo</groupId>
+    <artifactId>OracleCICDDemo</artifactId>
   </parent>
   <dependencies>
     <dependency>
@@ -134,4 +134,5 @@
     </repository>
   </repositories>
   <pluginRepositories/>
+  <packaging>pom</packaging>
 </project>
